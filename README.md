@@ -18,4 +18,4 @@ Responsible for the interactive functionalities of the simulation, including use
 
 The Fibonacci Heap Simulator is currently deployed and accessible online:
 
-Live URL: https://devubavariaa.github.io/HOTEL-WEBSITE/
+Live URL: https://dhruvbytecode.github.io/Hotel-Website/
